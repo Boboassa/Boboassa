@@ -7,6 +7,6 @@
 - 🧬  biotechnology student
 - 🌱  currently learning bioinformatics in R and Python
 - 🔭  working on my personal website
-- 🤝  looking to collaborate on any creative project
+- 🤝  looking to collaborate on any creative or bioinformatics project
 - 🔥  intrested in web design, programming and minimalist Linux programs
 <!-- - 📫 How to reach me: [redacted] -->
