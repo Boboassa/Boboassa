@@ -6,8 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning bioinformatics in R and Python
-- 🤝 I’m looking to collaborate on any creative project
-- 🔥 I'm intrested in design, programming and minimalist Linux programs
+- 🧬  biotechnology student
+- 🌱  currently learning bioinformatics in R and Python
+- 🔭  working on my personal website
+- 🤝  looking to collaborate on any creative project
+- 🔥  intrested in design, programming and minimalist Linux programs
 <!-- - 📫 How to reach me: [redacted] -->
