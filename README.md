@@ -4,9 +4,8 @@
 **Boboassa/Boboassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🧬  biotechnology student
-- 🌱  currently learning bioinformatics in R and Python
+- 🧬  Biotechnology student
+- 🏎️  Graphic designer and 3D artist at [@uniuderacing](https://github.com/uniuderacing) ([website](https://formulasae.uniud.it/))
 - 🔭  working on my personal website
-- 🤝  looking to collaborate on any creative or bioinformatics project
-- 🔥  intrested in web design, programming and minimalist Linux programs
+- 🔥  also intrested in web design, video editing, Linux
 <!-- - 📫 How to reach me: [redacted] -->
